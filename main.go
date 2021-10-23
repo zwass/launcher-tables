@@ -8,7 +8,7 @@ import (
 
 	"github.com/kolide/kit/logutil"
 	"github.com/kolide/launcher/pkg/osquery/table"
-	"github.com/kolide/osquery-go"
+	"github.com/osquery/osquery-go"
 )
 
 func main() {
